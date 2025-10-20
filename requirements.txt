@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+telethon==1.35.0
+asyncio
+nest_asyncio
+Flask==2.3.3
